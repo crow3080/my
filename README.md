@@ -40,11 +40,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crow3080&show_icons=true&theme=tokyonight" alt="Hasan's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crow3080&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crow3080&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crow3080&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crow3080&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 ---
