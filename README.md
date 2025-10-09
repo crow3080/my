@@ -8,7 +8,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,html,css,bash,linux,git" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,html,css,bash,linux,git" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=ktor,spring,quarkus,express,go" alt="Frameworks" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vertx/vertx-original.svg" width="48" height="48" alt="Vert.x" />
   <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Compose Multiplatform" /><br/>
@@ -31,6 +31,7 @@
 * Ktor, Spring Boot, Quarkus, Vert.x
 * Go Fiber (Learning)
 * Express.js
+* Python (Data Tools & Automation)
 
 ### 🗄️ Databases
 
@@ -48,6 +49,7 @@
 
 * Cross-platform apps using **Compose Multiplatform**
 * RESTful APIs with **Ktor** & **MongoDB**
+* Automation tools and data filters using **Python & Pandas**
 * Internal tools for business management systems
 
 ---
