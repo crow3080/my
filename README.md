@@ -22,12 +22,14 @@
 * Jetpack Compose & Compose Multiplatform
 * Room Database
 * Ktor Client
+* MVVM Pattern
 
 ### 🌍 Backend Development
 * Ktor, Spring Boot, Quarkus, Vert.x
 * Go Fiber (Learning)
 * Express.js
 * Python (Data Tools & Automation)
+* working with CDN and linux
 
 ### 🗄️ Databases
 * MongoDB, PostgreSQL, MySQL, SQLite, Cassandra
@@ -47,20 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crow3080&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Hasan's GitHub stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crow3080&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crow3080&layout=compact&theme=tokyonight&langs_count=8&count_private=true&include_all_commits=true&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- Alternative Stats Card -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crow3080&theme=tokyonight" alt="Profile Summary" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
